@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans Indic Siyaq Numbers', sans-serif;
+    box-sizing: border-box;
+}
+
+#cabecalho {
+    background-color: rgb(245, 238, 238);
+    text-align: center;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.botoes {
+    text-align: center;
+    float: left;
+    padding: 10px 24px;
+
+}
+
+.a:hover {
+    background-color: orangered;
+    color: white;
+    
+  }
+.b:hover {
+    background-color: orangered;
+    color: white;
+  }
+.c:hover {
+    background-color: orangered;
+    color: white;
+  }
+.d:hover {
+    background-color: orangered;
+    color: white;
+  }
+.e:hover {
+    background-color: orangered;
+    color: white;
+  }
+.f:hover {
+    background-color: orangered;
+    color: white;
+  }
+
+.login {
+    border-radius: 5px;
+    padding: 10px 24px;
+
+}
+
